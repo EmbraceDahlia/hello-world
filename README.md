@@ -1,2 +1,3 @@
 # hello-world
-Learn basic git hub
+Getting Started with GitHub
+I am new to GitHub. Help me Guide please.
